@@ -104,7 +104,7 @@ div p {
     text-decoration: line-through;
     font-weight: bold;
 }
-div#test ~ div {
+#test ~ div {
     background-color: blue;
 }
 main + p {
