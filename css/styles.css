@@ -1,0 +1,57 @@
+* {
+	background-color: #333;
+}
+body {
+	font-family: 'Comfortaa', sans-serif;
+	color: #fff;
+	font-size: 36px;
+}
+table {
+    border: 4px solid #111;
+    width: 340px;
+    margin: 30px;
+    background-color: transparent
+}
+td {
+    /* background-color: grey; */
+    color: silver;
+    text-align: center;
+    /* width: 33.3%;  <----  czy to potrebne?*/ 
+    padding: 10px;
+    background-color: grey;
+}
+.fa-brands {
+    background-color: transparent;
+}
+.fa-apple:hover {
+    color: black;
+}
+.fa-google:hover {
+    color: blue;
+}
+.fa-windows:hover {
+    color: greenyellow;
+}
+
+
+img {
+    width: 800px;
+    border-radius: 25px;
+    display: block;
+    margin: 60px auto;
+}
+div {
+    padding: 30px;
+}
+.first-word {
+    color: tomato;
+    text-decoration: underline;
+}
+ol {
+    margin-left: 75px;
+}
+.first-list-elements {
+    padding-left: 35px;
+    margin: 25px 0px;
+    color: silver;
+}
