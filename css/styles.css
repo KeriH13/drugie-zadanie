@@ -97,10 +97,10 @@ ol {
     background-color: #646cfd;
 }
 
-div > p {
-    color: red;
+div p {
+    color: tomato;
 }
-div.child > p {
+.child > p {
     text-decoration: line-through;
     font-weight: bold;
 }
